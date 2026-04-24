@@ -1,5 +1,0 @@
-Rencana pembuatan website minggu depan
-
--website data mahasiswa(menggunakan bahasa php)
--website marketplace(menggunakan bahasa javascript)
--website perpustakaan
